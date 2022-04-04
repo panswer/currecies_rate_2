@@ -1,0 +1,20 @@
+{
+  "name": "currencylayer-currencies-rate",
+  "version": "1.0.0",
+  "description": "get rate of currencies with API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "rate",
+    "currency"
+  ],
+  "author": "ricardo mejias",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0"
+  }
+}
